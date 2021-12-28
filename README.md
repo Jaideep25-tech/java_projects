@@ -10,6 +10,8 @@ This repository contains different projects that I build in java
     
 <p><a href="https://github.com/Jaideep25-tech/java_projects/blob/main/AtmMachine.java">ATM Interface</a></p>
     
-<p><a href="https://github.com/Jaideep25-tech/java_projects/blob/main/tictactoe.java">TIC TAC TOE Game</a></p>    
+<p><a href="https://github.com/Jaideep25-tech/java_projects/blob/main/tictactoe.java">TIC TAC TOE Game</a></p> 
+
+<p><a href="https://github.com/Jaideep25-tech/java_projects/blob/main/book.java">Library Management System</a></p>
     
 ![](https://github.com/Jaideep25-tech/java_projects/blob/main/assets/thank%20you%20banner.png)
